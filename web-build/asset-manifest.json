@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/static/js/main.bbf29ae2.js",
+    "static/js/772.be4267a7.js": "/static/js/772.be4267a7.js",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.bbf29ae2.js.map": "/static/js/main.bbf29ae2.js.map",
+    "772.be4267a7.js.map": "/static/js/772.be4267a7.js.map"
+  },
+  "entrypoints": [
+    "static/js/772.be4267a7.js",
+    "static/js/main.bbf29ae2.js"
+  ]
+}

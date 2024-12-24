@@ -1,0 +1,16 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "想晚餐漢堡",
+  "short_name": "想晚餐漢堡",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.dinnerburger.myqrapp",
+      "id": "com.dinnerburger.myqrapp"
+    }
+  ],
+  "prefer_related_applications": true
+}
